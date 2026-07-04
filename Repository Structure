@@ -1,0 +1,30 @@
+Retail-Business-Health-Monitoring-System
+│
+├── 📂 Data
+│   ├── Online Retail II.xlsx
+│   └── retail_cleaned.csv
+│
+├── 📂 Python
+│   ├── data_cleaning.ipynb
+│   ├── feature_engineering.ipynb
+│   └── eda.ipynb
+│
+├── 📂 SQL
+│   ├── create_database.sql
+│   ├── create_table.sql
+│   ├── kpi_queries.sql
+│   ├── product_analysis.sql
+│   ├── country_analysis.sql
+│   └── time_analysis.sql
+│
+├── 📂 Dashboard
+│   └── Retail_Business_Health.pbix
+│
+├── 📂 Screenshots
+│   ├── Page1_Executive_Overview.png
+│   ├── Page2_Product_Intelligence.png
+│   └── Page3_Sales_Business_Intelligence.png
+│
+├── README.md
+├── requirements.txt
+└── LICENSE
