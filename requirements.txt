@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+openpyxl
+sqlalchemy
+pymysql
+mysql-connector-python
+jupyter
+powerbi-client
